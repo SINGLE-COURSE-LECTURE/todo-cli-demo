@@ -59,7 +59,7 @@ python todo.py remove 1
 
 ## 자주 묻는 것
 
-더 알아보려면 [설정 안내](https://github.com/SINGLE-COURSE-LECTURE/todo-cli-demo/blob/main/SETTINGS.md) 를 보세요.
+더 알아보려면 [기여 안내](https://github.com/SINGLE-COURSE-LECTURE/todo-cli-demo/blob/main/CONTRIBUTING.md) 를 보세요.
 
 | 묻는 것 | 답 |
 |---|---|
