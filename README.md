@@ -7,6 +7,13 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-orange)
 ![Docs](https://img.shields.io/badge/docs-online-brightgreen)
 
+[![문서 검사](https://github.com/SINGLE-COURSE-LECTURE/todo-cli-demo/actions/workflows/docs.yml/badge.svg)](https://github.com/SINGLE-COURSE-LECTURE/todo-cli-demo/actions/workflows/docs.yml)
+[![배포](https://github.com/SINGLE-COURSE-LECTURE/todo-cli-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/SINGLE-COURSE-LECTURE/todo-cli-demo/actions/workflows/deploy.yml)
+
+**문서 사이트** → <https://single-course-lecture.github.io/todo-cli-demo/>
+
+main 에 병합되면 문서 사이트가 자동으로 갱신됩니다.
+
 ## 미리보기
 
 ![todo 를 터미널에서 실행해 할 일을 더하고 목록을 보고 하나를 끝낸 화면](docs/assets/todo-usage.png)
