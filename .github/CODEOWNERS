@@ -1,0 +1,5 @@
+# 문서 폴더가 바뀌면 문서 담당자를 자동으로 리뷰어로 지정한다.
+# 형식: 경로  @계정
+docs/            @jungwoogyun
+*.md             @jungwoogyun
+.github/         @jungwoogyun
