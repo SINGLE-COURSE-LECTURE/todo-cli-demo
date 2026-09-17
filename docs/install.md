@@ -77,7 +77,7 @@ python todo.py remove 1
 
 | 이렇게 나오면 | 뜻 | 이렇게 하세요 |
 |---|---|---|
-| `'python'은(는) 내부 또는 외부 명령...` | 파이썬이 없거나 경로에 없다 | 파이썬을 다시 설치하되 **Add python.exe to PATH** 를 체크 |
+| `'python'은(는) 내부 또는 외부 명령...` | 파이썬이 없거나 경로에 없다 | 먼저 **`py todo.py list`** 로 해 보세요. 그래도 안 되면 파이썬을 다시 설치하되 **Add python.exe to PATH** 를 체크 |
 | `'git'은(는) 내부 또는 외부 명령...` | Git 이 없다 | Git 을 설치하고 **터미널을 닫았다 다시** 엽니다 |
 | `No such file or directory: 'todo.py'` | 폴더 밖에 있다 | `cd todo-cli-demo` 를 했는지 확인 |
 | 한글이 깨져 보인다 | 터미널 글자 설정 | `chcp 65001` 을 한 번 실행 |
