@@ -1,6 +1,7 @@
 {
   "plugins": {
     "md013": { "line_length": 120 },
+    "md024": { "siblings_only": true },
     "md036": { "enabled": false }
   }
 }

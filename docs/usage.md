@@ -63,9 +63,11 @@ python todo.py remove 1
 |---|---|
 | 번호를 잘못 눌러 지웠어요 | 되돌릴 수 없습니다. `todo.json` 을 미리 복사해 두면 안전합니다 |
 | 할 일이 몇 개까지 되나요 | 제한이 없습니다. 다만 백 개가 넘으면 목록이 길어 보기 불편합니다 |
-| 끝낸 일만 모아 보고 싶어요 | 아직 안 됩니다. [변경 이력](../CHANGELOG.md) 의 `Unreleased` 에서 검토 중입니다 |
+| 끝낸 일만 모아 보고 싶어요 | 아직 안 됩니다. [변경 이력][changelog] 의 `Unreleased` 에서 검토 중입니다 |
 | 마감 날짜를 넣고 싶어요 | 아직 안 됩니다. 필요하시면 이슈로 알려 주세요 |
 
 ## 다음에 볼 문서
 
 - [동작 구조](architecture.md) — 안에서 무슨 일이 일어나는지
+
+[changelog]: https://github.com/SINGLE-COURSE-LECTURE/todo-cli-demo/blob/main/CHANGELOG.md

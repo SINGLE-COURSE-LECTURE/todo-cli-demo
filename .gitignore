@@ -15,3 +15,9 @@ Thumbs.db
 
 # 생성기가 만든 결과물 - 소스가 아니라 산출물이다
 site/
+
+# 검사가 만든 임시 사이트
+.site-check/
+
+# 검사가 남긴 기록
+.site-check.log

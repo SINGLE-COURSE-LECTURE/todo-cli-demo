@@ -63,4 +63,4 @@ erDiagram
 
 ## 다음에 볼 문서
 
-- [기여 안내](../CONTRIBUTING.md) — 고친 것을 보내는 방법
+- [기여 안내](https://github.com/SINGLE-COURSE-LECTURE/todo-cli-demo/blob/main/CONTRIBUTING.md) — 고친 것을 보내는 방법
