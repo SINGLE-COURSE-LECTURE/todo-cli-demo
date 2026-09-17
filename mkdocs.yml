@@ -1,0 +1,6 @@
+site_name: todo 문서
+site_description: 한 줄로 쓰는 할 일 관리 도구의 문서
+docs_dir: docs
+theme:
+  name: material
+  language: ko
