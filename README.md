@@ -42,7 +42,7 @@ python todo.py remove 1
 
 ## 폴더 구조
 
-```
+```text
 todo-cli-demo/
 ├── README.md            입구 — 지금 보고 있는 문서
 ├── CHANGELOG.md         무엇이 언제 바뀌었나

@@ -10,7 +10,7 @@
 python todo.py add "장보기"
 ```
 
-```
+```text
 추가했습니다: 장보기
 ```
 
@@ -22,7 +22,7 @@ python todo.py add "장보기"
 python todo.py list
 ```
 
-```
+```text
 1. [x] 장보기
 2. [ ] 교재 3장 읽기
 ```
@@ -36,7 +36,7 @@ python todo.py list
 python todo.py done 1
 ```
 
-```
+```text
 끝냈습니다: 장보기
 ```
 
@@ -46,7 +46,7 @@ python todo.py done 1
 python todo.py remove 1
 ```
 
-```
+```text
 지웠습니다: 장보기
 ```
 
