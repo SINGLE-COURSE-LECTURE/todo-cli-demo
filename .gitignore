@@ -14,7 +14,7 @@ Thumbs.db
 .venv/
 
 # 생성기가 만든 결과물 - 소스가 아니라 산출물이다
-public/
+site/
 
 # 검사가 만든 임시 사이트
 .site-check/
