@@ -59,8 +59,6 @@ python todo.py remove 1
 
 ## 자주 묻는 것
 
-자세한 내용은 [없는 문서](https://github.com/SINGLE-COURSE-LECTURE/todo-cli-demo/blob/main/NOPE.md) 를 보세요.
-
 | 묻는 것 | 답 |
 |---|---|
 | 번호를 잘못 눌러 지웠어요 | 되돌릴 수 없습니다. `todo.json` 을 미리 복사해 두면 안전합니다 |
