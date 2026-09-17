@@ -1,6 +1,29 @@
 site_name: todo 문서
 site_description: 한 줄로 쓰는 할 일 관리 도구의 문서
 docs_dir: docs
+
 theme:
   name: material
   language: ko
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: 어두운 화면으로
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: 밝은 화면으로
+
+nav:
+  - 시작하기:
+      - 문서 목록: index.md
+      - 설치 매뉴얼: install.md
+  - 쓰는 법:
+      - 사용자 매뉴얼: usage.md
+  - 안쪽을 보기:
+      - 동작 구조: architecture.md
