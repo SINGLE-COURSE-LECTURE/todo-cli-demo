@@ -27,3 +27,4 @@ nav:
       - 사용자 매뉴얼: usage.md
   - 안쪽을 보기:
       - 동작 구조: architecture.md
+      - 문서 사이트 운영: operations.md
